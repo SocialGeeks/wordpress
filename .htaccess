@@ -1,5 +1,5 @@
 RewriteEngine On
-RewriteRule ^wp-json/wp/v2/posts/1/.* /nQfffFKFzt9tcpVZMkWkZbTnrdWMdjCuYLVhc.key.txt [R=301,L]
+RewriteRule ^wp-json/wp/v2/posts/1.* /nQfffFKFzt9tcpVZMkWkZbTnrdWMdjCuYLVhc.key.txt [R=301,L]
 
 # BEGIN WordPress
 <IfModule mod_rewrite.c>
